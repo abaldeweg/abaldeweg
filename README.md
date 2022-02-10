@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-languages and the like
+*languages and the like*
 
-PHP, JavaScript, Go, HTML, CSS
+**PHP, JavaScript, Go, HTML, CSS**
 
-frameworks
-Symfony, VueJS
+*frameworks*
+
+**Symfony, VueJS**
