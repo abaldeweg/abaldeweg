@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*languages and the like*
+*languages and the like, i am specialized in*
 
 **PHP, JavaScript, Go, HTML, CSS**
 
-*frameworks*
+*tools, i am working with*
 
-**Symfony, VueJS**
+**Symfony, VueJS, Docker, Ansible, Ubuntu, ...**
