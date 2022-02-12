@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 *tools, i am working with*
 
-**Symfony, VueJS, Docker, Ansible, Ubuntu, VSCode, ...**
+**Symfony, VueJS, Docker, Ansible, Ubuntu, VSCode, Git, ...**
