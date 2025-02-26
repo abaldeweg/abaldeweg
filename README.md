@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 *languages and the like, i am specialized in*
 
-**PHP, JavaScript, Go, HTML, CSS**
+**PHP, JavaScript, Go, HTML, CSS, Python**
 
 *tools, i am working with*
 
-**Symfony, VueJS, Docker, Ansible, Ubuntu, VSCode, Git, NodeJS, ...**
+**VueJS, Docker, Ansible, Ubuntu, VSCode, Git, NodeJS, ...**
