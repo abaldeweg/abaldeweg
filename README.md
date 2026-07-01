@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 *languages and the like, i am specialized in*
 
-**PHP, JavaScript, Go, HTML, CSS, Python**
+**JavaScript, Go, HTML, CSS, PHP, Python**
 
 *tools, i am working with*
 
